@@ -1,0 +1,417 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fa",
+				"familySmith\tlet"
+			],
+			[
+				"lo",
+				"log\twarning"
+			],
+			[
+				"sum",
+				"sum2\tvar"
+			],
+			[
+				"add",
+				"addFourAges\tfunction"
+			],
+			[
+				"fun",
+				"function\tkeyword"
+			],
+			[
+				"box",
+				"boxesArr5\tconst"
+			],
+			[
+				"bo",
+				"boxesArr5\tconst"
+			],
+			[
+				"pro",
+				"prototype\tproperty"
+			],
+			[
+				"boxe",
+				"boxesArr6\tconst"
+			],
+			[
+				"all",
+				"allRef\tproperty"
+			],
+			[
+				"handle",
+				"handleImageUpload\tmethod"
+			],
+			[
+				"Route",
+				"Router\tclass"
+			],
+			[
+				"alert",
+				"alert-success"
+			],
+			[
+				"err",
+				"err\tparameter"
+			],
+			[
+				"a",
+				"active"
+			],
+			[
+				"nav",
+				"navbar-nav"
+			],
+			[
+				"na",
+				"navbar"
+			],
+			[
+				"dr",
+				"drivesLicense"
+			],
+			[
+				"b",
+				"birth"
+			],
+			[
+				"CRE",
+				"created_at"
+			],
+			[
+				"end",
+				"end_result"
+			],
+			[
+				"con",
+				"connection"
+			],
+			[
+				"pla",
+				"platos_y_precios"
+			],
+			[
+				"preci",
+				"precio_platillo"
+			],
+			[
+				"pre",
+				"precio"
+			],
+			[
+				"prec",
+				"precio_platillo"
+			],
+			[
+				"PRE",
+				"precios"
+			],
+			[
+				"from",
+				"FROM"
+			],
+			[
+				"ca",
+				"categoria_y_plato"
+			],
+			[
+				"inser",
+				"INSERT"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "script.js",
+			"settings":
+			{
+				"buffer_size": 1608,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 889,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 150.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/media/fernando/760AB7240AB6E073/Users/ferna/Documentos/JS/starter/script.js",
+		"/media/fernando/760AB7240AB6E073/Users/ferna/Documentos/Instagram Like portal/instagram-like/src/app/app.component.html",
+		"/media/fernando/760AB7240AB6E073/Users/ferna/Documentos/Instagram Like portal/instagram-like/src/app/header/header.component.html",
+		"/media/fernando/760AB7240AB6E073/Users/ferna/Documentos/Instagram Like portal/instagram-like/src/app/app.component.ts",
+		"/media/fernando/760AB7240AB6E073/Users/ferna/Documentos/Instagram Like portal/instagram-like/src/app/shared/myfire.service.ts",
+		"/media/fernando/760AB7240AB6E073/Users/ferna/Documentos/Instagram Like portal/instagram-like/src/app/my-posts/my-posts.component.html",
+		"/media/fernando/760AB7240AB6E073/Users/ferna/Documentos/Instagram Like portal/instagram-like/src/app/header/header.component.ts",
+		"/media/fernando/760AB7240AB6E073/Users/ferna/Documentos/Instagram Like portal/instagram-like/src/app/my-posts/my-posts.component.ts",
+		"/media/fernando/760AB7240AB6E073/Users/ferna/Documentos/Instagram Like portal/instagram-like/src/app/all-post/all-post.component.html",
+		"/media/fernando/760AB7240AB6E073/Users/ferna/Documentos/Instagram Like portal/instagram-like/src/app/all-post/all-post.component.ts",
+		"/media/fernando/760AB7240AB6E073/Users/ferna/Documentos/Instagram Like portal/instagram-like/src/app/all-post/all-post.component.css",
+		"/media/fernando/760AB7240AB6E073/Users/ferna/Documentos/Instagram Like portal/instagram-like/src/app/shared/post/post.component.html",
+		"/media/fernando/760AB7240AB6E073/Users/ferna/Documentos/Instagram Like portal/instagram-like/src/app/shared/post/post.component.ts",
+		"/media/fernando/760AB7240AB6E073/Users/ferna/Documentos/Instagram Like portal/instagram-like/src/app/shared/post/post.component.css",
+		"/media/fernando/760AB7240AB6E073/Users/ferna/Documentos/Instagram Like portal/instagram-like/src/app/my-posts/my-posts.component.css"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"snapshot",
+			"email",
+			"name"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "script.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1608,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1608,
+								1608
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1119.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 889,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								453,
+								453
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 51.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "script.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"heade",
+				"src/app/header/header.component.ts"
+			],
+			[
+				"header",
+				"src/app/header/header.component.ts"
+			],
+			[
+				"myfire",
+				"src/app/shared/myfire.service.ts"
+			],
+			[
+				"mypos",
+				"src/app/my-posts/my-posts.component.html"
+			],
+			[
+				"user",
+				"src/app/shared/user.service.ts"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 303.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
